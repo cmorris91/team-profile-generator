@@ -1,3 +1,5 @@
+const Employee = require('../lib/employee');
+
 test("Can set name via constructor arguments", () => {
     const name = "Alice";
     const e = new Employee(name);
