@@ -26,5 +26,6 @@ email: chelseymorris91@yahoo.com ||
 ## License
 ![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)
 
-
- [link to screen recording!](https://drive.google.com/file/d/1siGBsFGuUpfLRf_ASobjg0DF1nhZJLBD/view)
+## Links
+ [link to screen recording!](https://drive.google.com/file/d/1Z2KV3MV6Pc1pEVAgETILo7FeQjV69b7h/view)
+ [Link to github repo!](https://github.com/cmorris91/team-profile-generator)
